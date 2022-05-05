@@ -2,7 +2,7 @@
 My solution to the Synacor Challenge. 
 
 Copy of "build/release/challenge.txt":
-
+```
 1. mazetwistylittleall 	NSEW: N->2, S->3, W->4, E->8 DONE
 2. twistymazelittlealike NSW: N->3, S->1, W->2 DONE
 3. mazelittletwistyalike NSE: N->1, S->2, E->3 DONE
@@ -126,3 +126,4 @@ See maze.py...
 
 You gaze into the mirror, and you see yourself gazing back.  But wait!  It looks like someone wrote on your face while you were unconscious on the beach!  Through the mirror, you see "biubuvOlWwAu" scrawled in charcoal on your forehead. 
 uAwWlOvuduid
+```
