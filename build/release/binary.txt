@@ -1,0 +1,2419 @@
+[0000] NOOP
+[0001] NOOP
+[0002]  OUT | W
+[0004]  OUT | e
+[0006]  OUT | l
+[0008]  OUT | c
+[0010]  OUT | o
+[0012]  OUT | m
+[0014]  OUT | e
+[0016]  OUT |  
+[0018]  OUT | t
+[0020]  OUT | o
+[0022]  OUT |  
+[0024]  OUT | t
+[0026]  OUT | h
+[0028]  OUT | e
+[0030]  OUT |  
+[0032]  OUT | S
+[0034]  OUT | y
+[0036]  OUT | n
+[0038]  OUT | a
+[0040]  OUT | c
+[0042]  OUT | o
+[0044]  OUT | r
+[0046]  OUT |  
+[0048]  OUT | C
+[0050]  OUT | h
+[0052]  OUT | a
+[0054]  OUT | l
+[0056]  OUT | l
+[0058]  OUT | e
+[0060]  OUT | n
+[0062]  OUT | g
+[0064]  OUT | e
+[0066]  OUT | !
+[0068]  OUT | 
+
+[0070]  OUT | P
+[0072]  OUT | l
+[0074]  OUT | e
+[0076]  OUT | a
+[0078]  OUT | s
+[0080]  OUT | e
+[0082]  OUT |  
+[0084]  OUT | r
+[0086]  OUT | e
+[0088]  OUT | c
+[0090]  OUT | o
+[0092]  OUT | r
+[0094]  OUT | d
+[0096]  OUT |  
+[0098]  OUT | y
+[0100]  OUT | o
+[0102]  OUT | u
+[0104]  OUT | r
+[0106]  OUT |  
+[0108]  OUT | p
+[0110]  OUT | r
+[0112]  OUT | o
+[0114]  OUT | g
+[0116]  OUT | r
+[0118]  OUT | e
+[0120]  OUT | s
+[0122]  OUT | s
+[0124]  OUT |  
+[0126]  OUT | b
+[0128]  OUT | y
+[0130]  OUT |  
+[0132]  OUT | p
+[0134]  OUT | u
+[0136]  OUT | t
+[0138]  OUT | t
+[0140]  OUT | i
+[0142]  OUT | n
+[0144]  OUT | g
+[0146]  OUT |  
+[0148]  OUT | c
+[0150]  OUT | o
+[0152]  OUT | d
+[0154]  OUT | e
+[0156]  OUT | s
+[0158]  OUT |  
+[0160]  OUT | l
+[0162]  OUT | i
+[0164]  OUT | k
+[0166]  OUT | e
+[0168]  OUT | 
+
+[0170]  OUT | t
+[0172]  OUT | h
+[0174]  OUT | i
+[0176]  OUT | s
+[0178]  OUT |  
+[0180]  OUT | o
+[0182]  OUT | n
+[0184]  OUT | e
+[0186]  OUT |  
+[0188]  OUT | i
+[0190]  OUT | n
+[0192]  OUT | t
+[0194]  OUT | o
+[0196]  OUT |  
+[0198]  OUT | t
+[0200]  OUT | h
+[0202]  OUT | e
+[0204]  OUT |  
+[0206]  OUT | c
+[0208]  OUT | h
+[0210]  OUT | a
+[0212]  OUT | l
+[0214]  OUT | l
+[0216]  OUT | e
+[0218]  OUT | n
+[0220]  OUT | g
+[0222]  OUT | e
+[0224]  OUT |  
+[0226]  OUT | w
+[0228]  OUT | e
+[0230]  OUT | b
+[0232]  OUT | s
+[0234]  OUT | i
+[0236]  OUT | t
+[0238]  OUT | e
+[0240]  OUT | :
+[0242]  OUT |  
+[0244]  OUT | t
+[0246]  OUT | q
+[0248]  OUT | r
+[0250]  OUT | C
+[0252]  OUT | H
+[0254]  OUT | g
+[0256]  OUT | j
+[0258]  OUT | k
+[0260]  OUT | t
+[0262]  OUT | U
+[0264]  OUT | V
+[0266]  OUT | K
+[0268]  OUT | 
+
+[0270]  OUT | 
+
+[0272]  OUT | E
+[0274]  OUT | x
+[0276]  OUT | e
+[0278]  OUT | c
+[0280]  OUT | u
+[0282]  OUT | t
+[0284]  OUT | i
+[0286]  OUT | n
+[0288]  OUT | g
+[0290]  OUT |  
+[0292]  OUT | s
+[0294]  OUT | e
+[0296]  OUT | l
+[0298]  OUT | f
+[0300]  OUT | -
+[0302]  OUT | t
+[0304]  OUT | e
+[0306]  OUT | s
+[0308]  OUT | t
+[0310]  OUT | .
+[0312]  OUT | .
+[0314]  OUT | .
+[0316]  OUT | 
+
+[0318]  OUT | 
+
+[0320]  JMP | 347
+[0322]  OUT | j
+[0324]  OUT | m
+[0326]  OUT | p
+[0328]  OUT |  
+[0330]  OUT | f
+[0332]  OUT | a
+[0334]  OUT | i
+[0336]  OUT | l
+[0338]  OUT | s
+[0340]  OUT | 
+
+[0342] HALT
+[0343] NOOP
+[0344] NOOP
+[0345] NOOP
+[0346] NOOP
+[0347] NOOP
+[0348] NOOP
+[0349] NOOP
+[0350] NOOP
+[0351] NOOP
+[0352]  JMP | 358
+[0354]  JMP | 368
+[0356]  JMP | 397
+[0358]  JMP | 484
+[0360]  JMP | 424
+[0362]  JMP | 453
+[0364] NOOP
+[0365] NOOP
+[0366] NOOP
+[0367] NOOP
+[0368]  OUT | j
+[0370]  OUT | m
+[0372]  OUT | p
+[0374]  OUT |  
+[0376]  OUT | l
+[0378]  OUT | a
+[0380]  OUT | n
+[0382]  OUT | d
+[0384]  OUT | s
+[0386]  OUT |  
+[0388]  OUT | -
+[0390]  OUT | 2
+[0392]  OUT | 
+
+[0394] HALT
+[0395] NOOP
+[0396] NOOP
+[0397]  OUT | j
+[0399]  OUT | m
+[0401]  OUT | p
+[0403]  OUT |  
+[0405]  OUT | l
+[0407]  OUT | a
+[0409]  OUT | n
+[0411]  OUT | d
+[0413]  OUT | s
+[0415]  OUT |  
+[0417]  OUT | -
+[0419]  OUT | 1
+[0421]  OUT | 
+
+[0423] HALT
+[0424] NOOP
+[0425] NOOP
+[0426]  OUT | j
+[0428]  OUT | m
+[0430]  OUT | p
+[0432]  OUT |  
+[0434]  OUT | l
+[0436]  OUT | a
+[0438]  OUT | n
+[0440]  OUT | d
+[0442]  OUT | s
+[0444]  OUT |  
+[0446]  OUT | +
+[0448]  OUT | 1
+[0450]  OUT | 
+
+[0452] HALT
+[0453] NOOP
+[0454] NOOP
+[0455] NOOP
+[0456] NOOP
+[0457]  OUT | j
+[0459]  OUT | m
+[0461]  OUT | p
+[0463]  OUT |  
+[0465]  OUT | l
+[0467]  OUT | a
+[0469]  OUT | n
+[0471]  OUT | d
+[0473]  OUT | s
+[0475]  OUT |  
+[0477]  OUT | +
+[0479]  OUT | 2
+[0481]  OUT | 
+
+[0483] HALT
+[0484]   JT | 0 1074
+[0487]   JF | 1 1074
+[0490]   JT | 1 495
+[0493]  JMP | 1074
+[0495]   JF | 0 500
+[0498]  JMP | 1074
+[0500]   JT | reg[0] 1093
+[0503]   JT | reg[1] 1093
+[0506]   JT | reg[2] 1093
+[0509]   JT | reg[3] 1093
+[0512]   JT | reg[4] 1093
+[0515]   JT | reg[5] 1093
+[0518]   JT | reg[6] 1093
+[0521]   JT | reg[7] 1093
+[0524]  SET | reg[0] 1
+[0527]   JF | reg[0] 1118
+[0530]  SET | reg[0] 0
+[0533]   JT | reg[0] 1118
+[0536]  ADD | reg[0] 1 1
+[0540]   JT | reg[0] 564
+[0543]  OUT | n
+[0545]  OUT | o
+[0547]  OUT |  
+[0549]  OUT | a
+[0551]  OUT | d
+[0553]  OUT | d
+[0555]  OUT |  
+[0557]  OUT | o
+[0559]  OUT | p
+[0561]  OUT | 
+
+[0563] HALT
+[0564]   EQ | reg[1] reg[0] 2
+[0568]   JT | reg[1] 590
+[0571]  OUT | n
+[0573]  OUT | o
+[0575]  OUT |  
+[0577]  OUT | e
+[0579]  OUT | q
+[0581]  OUT |  
+[0583]  OUT | o
+[0585]  OUT | p
+[0587]  OUT | 
+
+[0589] HALT
+[0590] PUSH | reg[0]
+[0592] PUSH | reg[1]
+[0594]  POP | reg[0]
+[0596]  POP | reg[1]
+[0598]   EQ | reg[2] reg[1] 2
+[0602]   JF | reg[2] 1158
+[0605]   EQ | reg[2] reg[0] 1
+[0609]   JF | reg[2] 1158
+[0612]   GT | reg[2] reg[1] reg[0]
+[0616]   JF | reg[2] 1139
+[0619]   GT | reg[2] reg[0] reg[1]
+[0623]   JT | reg[2] 1139
+[0626]   GT | reg[2] 42 42
+[0630]   JT | reg[2] 1139
+[0633]  AND | reg[0] 28912 19626
+[0637]   EQ | reg[1] reg[0] 16544
+[0641]   JF | reg[1] 1177
+[0644]   OR | reg[1] 28912 19626
+[0648]   EQ | reg[0] reg[1] 31994
+[0652]   JT | reg[0] 684
+[0655]  OUT | n
+[0657]  OUT | o
+[0659]  OUT |  
+[0661]  OUT | b
+[0663]  OUT | i
+[0665]  OUT | t
+[0667]  OUT | w
+[0669]  OUT | i
+[0671]  OUT | s
+[0673]  OUT | e
+[0675]  OUT |  
+[0677]  OUT | o
+[0679]  OUT | r
+[0681]  OUT | 
+
+[0683] HALT
+[0684]  NOT | reg[0] 0
+[0687]   EQ | reg[1] reg[0] 32767
+[0691]   JF | reg[1] 1208
+[0694]  NOT | reg[0] 21845
+[0697]   EQ | reg[1] reg[0] 10922
+[0701]   JF | reg[1] 1208
+[0704] CALL | 1285
+[0706]  JMP | 1289
+[0708]  POP | reg[0]
+[0710]   EQ | reg[1] reg[0] 708
+[0714]   JT | reg[1] 1289
+[0717]   EQ | reg[1] reg[0] 706
+[0721]   JF | reg[1] 1289
+[0724]  SET | reg[0] 1287
+[0727] CALL | reg[0]
+[0729]  JMP | 1289
+[0731]  POP | reg[0]
+[0733]   EQ | reg[1] reg[0] 731
+[0737]   JT | reg[1] 1289
+[0740]   EQ | reg[1] reg[0] 729
+[0744]   JF | reg[1] 1289
+[0747]  ADD | reg[0] 32767 32767
+[0751]   EQ | reg[1] reg[0] 32766
+[0755]   JF | reg[1] 1312
+[0758]   EQ | reg[1] 32766 reg[0]
+[0762]   JF | reg[1] 1312
+[0765]  ADD | reg[0] 16384 16384
+[0769]   JT | reg[0] 1312
+[0772]  ADD | reg[0] 16384 16384
+[0776]   JT | reg[0] 1312
+[0779] MULT | reg[0] 6 9
+[0783]   EQ | reg[1] reg[0] 42
+[0787]   JT | reg[1] 1381
+[0790]   EQ | reg[1] reg[0] 54
+[0794]   JF | reg[1] 1414
+[0797] MULT | reg[0] 12345 32123
+[0801]   EQ | reg[1] reg[0] 99
+[0805]   JF | reg[1] 1312
+[0808]  MOD | reg[0] 6 3
+[0812]   EQ | reg[1] reg[0] 0
+[0816]   JF | reg[1] 1437
+[0819]  MOD | reg[0] 70 6
+[0823]   EQ | reg[1] reg[0] 4
+[0827]   JF | reg[1] 1437
+[0830] MULT | reg[0] 32766 15
+[0834]   EQ | reg[1] reg[0] 32738
+[0838]   JF | reg[1] 1312
+[0841]  JMP | 845
+[0845] RMEM | reg[0] 843
+[0848]   EQ | reg[1] reg[0] 20000
+[0852]   JF | reg[1] 1239
+[0855]  ADD | reg[2] 843 1
+[0859] RMEM | reg[0] reg[2]
+[0862]   EQ | reg[1] reg[0] 10000
+[0866]   JF | reg[1] 1239
+[0869]  SET | reg[0] 843
+[0872] WMEM | reg[0] 30000
+[0875] RMEM | reg[2] reg[0]
+[0878]   EQ | reg[1] reg[2] 30000
+[0882]   JF | reg[1] 1262
+[0885] CALL | 1723
+[0887] RMEM | reg[0] 6068
+[0890]   EQ | reg[1] reg[0] 11
+[0894]   JF | reg[1] 1239
+[0897]  ADD | reg[2] 6068 1
+[0901] RMEM | reg[0] reg[2]
+[0904]   EQ | reg[1] reg[0] 116
+[0908]   JF | reg[1] 1239
+[0911] WMEM | reg[2] 84
+[0914] RMEM | reg[0] reg[2]
+[0917]   EQ | reg[1] reg[0] 116
+[0921]   JT | reg[1] 1262
+[0924]   EQ | reg[1] reg[0] 84
+[0928]   JF | reg[1] 1262
+[0931] WMEM | 937 21
+[0934] WMEM | 938 7
+[0937]  JMP | 941
+[0939]  OUT | Ò
+[0941]  OUT | w
+[0943]  OUT | m
+[0945]  OUT | e
+[0947]  OUT | m
+[0949]  OUT |  
+[0951]  OUT | o
+[0953]  OUT | p
+[0955]  OUT | w
+[0957]  OUT | r
+[0959]  OUT | i
+[0961]  OUT | t
+[0963]  OUT | e
+[0965]  OUT |  
+[0967]  OUT | f
+[0969]  OUT | a
+[0971]  OUT | i
+[0973]  OUT | l
+[0975]  OUT | 
+
+[0977] HALT
+[0978]  ADD | reg[1] 10 6080
+[0982]  ADD | reg[1] reg[1] 1
+[0986] RMEM | reg[2] 6116
+[0989]  ADD | reg[2] reg[2] 6116
+[0993]  SET | reg[0] 6116
+[0996]  ADD | reg[0] reg[0] 1
+[1000]   GT | reg[3] reg[0] reg[2]
+[1004]   JT | reg[3] 1023
+[1007] RMEM | reg[4] reg[0]
+[1010] WMEM | reg[1] reg[4]
+[1013]  ADD | reg[0] reg[0] 1
+[1017]  ADD | reg[1] reg[1] 1
+[1021]  JMP | 1000
+[1023] RMEM | reg[0] 6080
+[1026] RMEM | reg[1] 6099
+[1029]  ADD | reg[0] reg[0] reg[1]
+[1033]  ADD | reg[0] reg[0] 1
+[1037] WMEM | 6080 reg[0]
+[1040] WMEM | 6099 44
+[1043]  SET | reg[0] 6080
+[1046] CALL | 1518
+[1048] PUSH | reg[0]
+[1050] PUSH | reg[1]
+[1052] PUSH | reg[2]
+[1054]  SET | reg[0] 26851
+[1057]  SET | reg[1] 1531
+[1060]  ADD | reg[2] 20952 6811
+[1064] CALL | 1458
+[1066]  POP | reg[2]
+[1068]  POP | reg[1]
+[1070]  POP | reg[0]
+[1072]  JMP | 2734
+[1074]  OUT | n
+[1076]  OUT | o
+[1078]  OUT |  
+[1080]  OUT | j
+[1082]  OUT | t
+[1084]  OUT | /
+[1086]  OUT | j
+[1088]  OUT | f
+[1090]  OUT | 
+
+[1092] HALT
+[1093]  OUT | n
+[1095]  OUT | o
+[1097]  OUT | n
+[1099]  OUT | z
+[1101]  OUT | e
+[1103]  OUT | r
+[1105]  OUT | o
+[1107]  OUT |  
+[1109]  OUT | r
+[1111]  OUT | e
+[1113]  OUT | g
+[1115]  OUT | 
+
+[1117] HALT
+[1118]  OUT | n
+[1120]  OUT | o
+[1122]  OUT |  
+[1124]  OUT | s
+[1126]  OUT | e
+[1128]  OUT | t
+[1130]  OUT |  
+[1132]  OUT | o
+[1134]  OUT | p
+[1136]  OUT | 
+
+[1138] HALT
+[1139]  OUT | n
+[1141]  OUT | o
+[1143]  OUT |  
+[1145]  OUT | g
+[1147]  OUT | t
+[1149]  OUT |  
+[1151]  OUT | o
+[1153]  OUT | p
+[1155]  OUT | 
+
+[1157] HALT
+[1158]  OUT | n
+[1160]  OUT | o
+[1162]  OUT |  
+[1164]  OUT | s
+[1166]  OUT | t
+[1168]  OUT | a
+[1170]  OUT | c
+[1172]  OUT | k
+[1174]  OUT | 
+
+[1176] HALT
+[1177]  OUT | n
+[1179]  OUT | o
+[1181]  OUT |  
+[1183]  OUT | b
+[1185]  OUT | i
+[1187]  OUT | t
+[1189]  OUT | w
+[1191]  OUT | i
+[1193]  OUT | s
+[1195]  OUT | e
+[1197]  OUT |  
+[1199]  OUT | a
+[1201]  OUT | n
+[1203]  OUT | d
+[1205]  OUT | 
+
+[1207] HALT
+[1208]  OUT | n
+[1210]  OUT | o
+[1212]  OUT |  
+[1214]  OUT | b
+[1216]  OUT | i
+[1218]  OUT | t
+[1220]  OUT | w
+[1222]  OUT | i
+[1224]  OUT | s
+[1226]  OUT | e
+[1228]  OUT |  
+[1230]  OUT | n
+[1232]  OUT | o
+[1234]  OUT | t
+[1236]  OUT | 
+
+[1238] HALT
+[1239]  OUT | n
+[1241]  OUT | o
+[1243]  OUT |  
+[1245]  OUT | r
+[1247]  OUT | m
+[1249]  OUT | e
+[1251]  OUT | m
+[1253]  OUT |  
+[1255]  OUT | o
+[1257]  OUT | p
+[1259]  OUT | 
+
+[1261] HALT
+[1262]  OUT | n
+[1264]  OUT | o
+[1266]  OUT |  
+[1268]  OUT | w
+[1270]  OUT | m
+[1272]  OUT | e
+[1274]  OUT | m
+[1276]  OUT |  
+[1278]  OUT | o
+[1280]  OUT | p
+[1282]  OUT | 
+
+[1284] HALT
+[1285]  JMP | 708
+[1287]  JMP | 731
+[1289]  OUT | n
+[1291]  OUT | o
+[1293]  OUT |  
+[1295]  OUT | c
+[1297]  OUT | a
+[1299]  OUT | l
+[1301]  OUT | l
+[1303]  OUT |  
+[1305]  OUT | o
+[1307]  OUT | p
+[1309]  OUT | 
+
+[1311] HALT
+[1312]  OUT | n
+[1314]  OUT | o
+[1316]  OUT |  
+[1318]  OUT | m
+[1320]  OUT | o
+[1322]  OUT | d
+[1324]  OUT | u
+[1326]  OUT | l
+[1328]  OUT | o
+[1330]  OUT |  
+[1332]  OUT | m
+[1334]  OUT | a
+[1336]  OUT | t
+[1338]  OUT | h
+[1340]  OUT |  
+[1342]  OUT | d
+[1344]  OUT | u
+[1346]  OUT | r
+[1348]  OUT | i
+[1350]  OUT | n
+[1352]  OUT | g
+[1354]  OUT |  
+[1356]  OUT | a
+[1358]  OUT | d
+[1360]  OUT | d
+[1362]  OUT |  
+[1364]  OUT | o
+[1366]  OUT | r
+[1368]  OUT |  
+[1370]  OUT | m
+[1372]  OUT | u
+[1374]  OUT | l
+[1376]  OUT | t
+[1378]  OUT | 
+
+[1380] HALT
+[1381]  OUT | n
+[1383]  OUT | o
+[1385]  OUT | t
+[1387]  OUT |  
+[1389]  OUT | h
+[1391]  OUT | i
+[1393]  OUT | t
+[1395]  OUT | c
+[1397]  OUT | h
+[1399]  OUT | h
+[1401]  OUT | i
+[1403]  OUT | k
+[1405]  OUT | i
+[1407]  OUT | n
+[1409]  OUT | g
+[1411]  OUT | 
+
+[1413] HALT
+[1414]  OUT | n
+[1416]  OUT | o
+[1418]  OUT |  
+[1420]  OUT | m
+[1422]  OUT | u
+[1424]  OUT | l
+[1426]  OUT | t
+[1428]  OUT |  
+[1430]  OUT | o
+[1432]  OUT | p
+[1434]  OUT | 
+
+[1436] HALT
+[1437]  OUT | n
+[1439]  OUT | o
+[1441]  OUT |  
+[1443]  OUT | m
+[1445]  OUT | o
+[1447]  OUT | d
+[1449]  OUT |  
+[1451]  OUT | o
+[1453]  OUT | p
+[1455]  OUT | 
+
+[1457] HALT
+[1458] PUSH | reg[0]
+[1460] PUSH | reg[3]
+[1462] PUSH | reg[4]
+[1464] PUSH | reg[5]
+[1466] PUSH | reg[6]
+[1468]  SET | reg[6] reg[0]
+[1471]  SET | reg[5] reg[1]
+[1474] RMEM | reg[4] reg[0]
+[1477]  SET | reg[1] 0
+[1480]  ADD | reg[3] 1 reg[1]
+[1484]   GT | reg[0] reg[3] reg[4]
+[1488]   JT | reg[0] 1507
+[1491]  ADD | reg[3] reg[3] reg[6]
+[1495] RMEM | reg[0] reg[3]
+[1498] CALL | reg[5]
+[1500]  ADD | reg[1] reg[1] 1
+[1504]   JT | reg[1] 1480
+[1507]  POP | reg[6]
+[1509]  POP | reg[5]
+[1511]  POP | reg[4]
+[1513]  POP | reg[3]
+[1515]  POP | reg[0]
+[1517]  RET
+[1518] PUSH | reg[1]
+[1520]  SET | reg[1] 1528
+[1523] CALL | 1458
+[1525]  POP | reg[1]
+[1527]  RET
+[1528]  OUT |  
+[1530]  RET
+[1531] PUSH | reg[1]
+[1533]  SET | reg[1] reg[2]
+[1536] CALL | 2125
+[1538]  OUT |  
+[1540]  POP | reg[1]
+[1542]  RET
+[1543] PUSH | reg[1]
+[1545] PUSH | reg[3]
+[1547] RMEM | reg[3] reg[0]
+[1550]   JF | reg[3] 1563
+[1553] CALL | 1458
+[1555]   JT | reg[1] 1563
+[1558]  SET | reg[0] reg[2]
+[1561]  JMP | 1566
+[1563]  SET | reg[0] 32767
+[1566]  POP | reg[3]
+[1568]  POP | reg[1]
+[1570]  RET
+[1571] PUSH | reg[1]
+[1573] PUSH | reg[2]
+[1575]  SET | reg[2] reg[1]
+[1578]  SET | reg[1] 1605
+[1581] CALL | 1543
+[1583]  POP | reg[2]
+[1585]  POP | reg[1]
+[1587]  RET
+[1588] PUSH | reg[1]
+[1590] PUSH | reg[2]
+[1592]  SET | reg[2] reg[1]
+[1595]  SET | reg[1] 1648
+[1598] CALL | 1543
+[1600]  POP | reg[2]
+[1602]  POP | reg[1]
+[1604]  RET
+[1605]   EQ | reg[0] reg[0] reg[2]
+[1609]   JF | reg[0] 1618
+[1612]  SET | reg[2] reg[1]
+[1615]  SET | reg[1] 32767
+[1618]  RET
+[1619] PUSH | reg[3]
+[1621]  ADD | reg[3] reg[2] 1
+[1625]  ADD | reg[3] reg[3] reg[1]
+[1629] RMEM | reg[3] reg[3]
+[1632]   EQ | reg[3] reg[0] reg[3]
+[1636]   JT | reg[3] 1645
+[1639]  SET | reg[2] reg[1]
+[1642]  SET | reg[1] 32767
+[1645]  POP | reg[3]
+[1647]  RET
+[1648] PUSH | reg[1]
+[1650]  SET | reg[1] reg[2]
+[1653] CALL | 1667
+[1655]  POP | reg[1]
+[1657]   JF | reg[0] 1666
+[1660]  SET | reg[2] reg[1]
+[1663]  SET | reg[1] 32767
+[1666]  RET
+[1667] PUSH | reg[1]
+[1669] PUSH | reg[2]
+[1671] PUSH | reg[3]
+[1673] PUSH | reg[4]
+[1675] RMEM | reg[3] reg[0]
+[1678] RMEM | reg[4] reg[1]
+[1681]   EQ | reg[2] reg[3] reg[4]
+[1685]   JF | reg[2] 1711
+[1688]   OR | reg[2] reg[3] reg[4]
+[1692]   JF | reg[2] 1706
+[1695]  SET | reg[2] reg[1]
+[1698]  SET | reg[1] 1619
+[1701] CALL | 1458
+[1703]   JF | reg[1] 1711
+[1706]  SET | reg[0] 1
+[1709]  JMP | 1714
+[1711]  SET | reg[0] 0
+[1714]  POP | reg[4]
+[1716]  POP | reg[3]
+[1718]  POP | reg[2]
+[1720]  POP | reg[1]
+[1722]  RET
+[1723] PUSH | reg[0]
+[1725] PUSH | reg[1]
+[1727]  SET | reg[1] 6068
+[1730] RMEM | reg[0] reg[1]
+[1733] PUSH | reg[1]
+[1735] MULT | reg[1] reg[1] reg[1]
+[1739] CALL | 2125
+[1741]  SET | reg[1] 16724
+[1744] CALL | 2125
+[1746]  POP | reg[1]
+[1748] WMEM | reg[1] reg[0]
+[1751]  ADD | reg[1] reg[1] 1
+[1755]   EQ | reg[0] 30050 reg[1]
+[1759]   JF | reg[0] 1730
+[1762]  POP | reg[1]
+[1764]  POP | reg[0]
+[1766]  RET
+[1767] PUSH | reg[0]
+[1769] PUSH | reg[2]
+[1771] PUSH | reg[3]
+[1773] PUSH | reg[4]
+[1775] PUSH | reg[5]
+[1777]  ADD | reg[2] reg[1] reg[0]
+[1781]  SET | reg[0] reg[1]
+[1784]  SET | reg[5] 0
+[1787]  ADD | reg[0] reg[0] 1
+[1791]   GT | reg[3] reg[0] reg[2]
+[1795]   JT | reg[3] 1816
+[1798]   IN | reg[4]
+[1800]   EQ | reg[3] reg[4] 10
+[1804]   JT | reg[3] 1816
+[1807] WMEM | reg[0] reg[4]
+[1810]  ADD | reg[5] reg[5] 1
+[1814]  JMP | 1787
+[1816] WMEM | reg[1] reg[5]
+[1819]   EQ | reg[3] reg[4] 10
+[1823]   JT | reg[3] 1830
+[1826]   IN | reg[4]
+[1828]  JMP | 1819
+[1830]  POP | reg[5]
+[1832]  POP | reg[4]
+[1834]  POP | reg[3]
+[1836]  POP | reg[2]
+[1838]  POP | reg[0]
+[1840]  RET
+[1841] PUSH | reg[3]
+[1843] PUSH | reg[4]
+[1845] PUSH | reg[5]
+[1847] PUSH | reg[6]
+[1849]  SET | reg[6] 1
+[1852]  ADD | reg[4] reg[3] reg[6]
+[1856] RMEM | reg[4] reg[4]
+[1859]  ADD | reg[5] 6125 reg[6]
+[1863] WMEM | reg[5] reg[4]
+[1866]  ADD | reg[6] reg[6] 1
+[1870] RMEM | reg[5] 6125
+[1873]   GT | reg[4] reg[6] reg[5]
+[1877]   JF | reg[4] 1852
+[1880]  SET | reg[3] 0
+[1883]  SET | reg[4] 0
+[1886] RMEM | reg[5] 6125
+[1889]  MOD | reg[5] reg[4] reg[5]
+[1893]  ADD | reg[5] reg[5] 6125
+[1897]  ADD | reg[5] reg[5] 1
+[1901] RMEM | reg[6] reg[5]
+[1904] MULT | reg[6] reg[6] 5249
+[1908]  ADD | reg[6] reg[6] 12345
+[1912] WMEM | reg[5] reg[6]
+[1915] PUSH | reg[0]
+[1917] PUSH | reg[1]
+[1919]  SET | reg[1] reg[6]
+[1922] CALL | 2125
+[1924]  SET | reg[6] reg[0]
+[1927]  POP | reg[1]
+[1929]  POP | reg[0]
+[1931] RMEM | reg[5] reg[1]
+[1934]  MOD | reg[6] reg[6] reg[5]
+[1938]  ADD | reg[6] reg[6] 1
+[1942]   GT | reg[5] reg[6] reg[2]
+[1946]   JT | reg[5] 1952
+[1949]  SET | reg[3] 1
+[1952]  ADD | reg[6] reg[6] reg[1]
+[1956] RMEM | reg[6] reg[6]
+[1959]  ADD | reg[4] reg[4] 1
+[1963]  ADD | reg[5] reg[4] 6129
+[1967] WMEM | reg[5] reg[6]
+[1970] RMEM | reg[5] 6129
+[1973]   EQ | reg[5] reg[4] reg[5]
+[1977]   JF | reg[5] 1886
+[1980]   JF | reg[3] 1880
+[1983] PUSH | reg[0]
+[1985]  SET | reg[0] 6129
+[1988] CALL | 1518
+[1990]  POP | reg[0]
+[1992]  POP | reg[6]
+[1994]  POP | reg[5]
+[1996]  POP | reg[4]
+[1998]  POP | reg[3]
+[2000]  RET
+[2001] PUSH | reg[0]
+[2003] PUSH | reg[1]
+[2005] PUSH | reg[2]
+[2007] PUSH | reg[3]
+[2009] PUSH | reg[4]
+[2011] PUSH | reg[5]
+[2013]  SET | reg[2] 1
+[2016]  SET | reg[5] 0
+[2019]   JF | reg[0] 2092
+[2022]   EQ | reg[4] reg[2] 10000
+[2026]  SET | reg[3] reg[0]
+[2029]   JT | reg[4] 2040
+[2032] MULT | reg[1] reg[2] 10
+[2036]  MOD | reg[3] reg[0] reg[1]
+[2040]  SET | reg[4] 0
+[2043] MULT | reg[2] reg[2] 32767
+[2047]   JF | reg[3] 2060
+[2050]  ADD | reg[4] reg[4] 1
+[2054]  ADD | reg[3] reg[3] reg[2]
+[2058]  JMP | 2047
+[2060] MULT | reg[2] reg[2] 32767
+[2064] MULT | reg[3] reg[4] reg[2]
+[2068] MULT | reg[3] reg[3] 32767
+[2072]  ADD | reg[0] reg[0] reg[3]
+[2076]  ADD | reg[4] reg[4] 48
+[2080] MULT | reg[2] reg[2] 10
+[2084]  ADD | reg[5] reg[5] 1
+[2088] PUSH | reg[4]
+[2090]  JMP | 2019
+[2092]   JT | reg[5] 2099
+[2095]  OUT | 0
+[2097]  JMP | 2112
+[2099]   JF | reg[5] 2112
+[2102]  POP | reg[0]
+[2104]  OUT |  
+[2106]  ADD | reg[5] reg[5] 32767
+[2110]  JMP | 2099
+[2112]  POP | reg[5]
+[2114]  POP | reg[4]
+[2116]  POP | reg[3]
+[2118]  POP | reg[2]
+[2120]  POP | reg[1]
+[2122]  POP | reg[0]
+[2124]  RET
+[2125] PUSH | reg[1]
+[2127] PUSH | reg[2]
+[2129]  AND | reg[2] reg[0] reg[1]
+[2133]  NOT | reg[2] reg[2]
+[2136]   OR | reg[0] reg[0] reg[1]
+[2140]  AND | reg[0] reg[0] reg[2]
+[2144]  POP | reg[2]
+[2146]  POP | reg[1]
+[2148]  RET
+[2149]  ADD | reg[0] reg[0] reg[1]
+[2153]   GT | reg[1] reg[1] reg[0]
+[2157]  RET
+[2158] PUSH | reg[2]
+[2160]   GT | reg[2] reg[1] reg[0]
+[2164] MULT | reg[1] reg[1] 32767
+[2168]  ADD | reg[0] reg[0] reg[1]
+[2172]  SET | reg[1] reg[2]
+[2175]  POP | reg[2]
+[2177]  RET
+[2178]   JF | reg[0] 2241
+[2181]   JF | reg[1] 2241
+[2184] PUSH | reg[2]
+[2186] PUSH | reg[3]
+[2188]   GT | reg[2] reg[1] reg[0]
+[2192]   JT | reg[2] 2204
+[2195]  SET | reg[2] reg[0]
+[2198]  SET | reg[0] reg[1]
+[2201]  SET | reg[1] reg[2]
+[2204]  SET | reg[2] reg[0]
+[2207]  SET | reg[0] 0
+[2210]  ADD | reg[0] reg[0] reg[1]
+[2214]   GT | reg[3] reg[1] reg[0]
+[2218]   JT | reg[3] 2233
+[2221]  ADD | reg[2] reg[2] 32767
+[2225]   JT | reg[2] 2210
+[2228]  SET | reg[1] 0
+[2231]  JMP | 2236
+[2233]  SET | reg[1] 1
+[2236]  POP | reg[3]
+[2238]  POP | reg[2]
+[2240]  RET
+[2241]  SET | reg[0] 0
+[2244]  SET | reg[1] 0
+[2247]  RET
+[2248] PUSH | reg[1]
+[2250] PUSH | reg[2]
+[2252]   JF | reg[1] 2276
+[2255]  ADD | reg[1] reg[1] 32767
+[2259]  AND | reg[2] reg[0] 16384
+[2263] MULT | reg[0] reg[0] 2
+[2267]   JF | reg[2] 2252
+[2270]   OR | reg[0] reg[0] 1
+[2274]  JMP | 2252
+[2276]  POP | reg[2]
+[2278]  POP | reg[1]
+[2280]  RET
+[2281] PUSH | reg[1]
+[2283]   GT | reg[1] reg[0] 14
+[2287]   JT | reg[1] 2309
+[2290]  SET | reg[1] reg[0]
+[2293]  SET | reg[0] 1
+[2296]   JF | reg[1] 2312
+[2299]  ADD | reg[1] reg[1] 32767
+[2303] MULT | reg[0] reg[0] 2
+[2307]  JMP | 2296
+[2309]  SET | reg[0] 32767
+[2312]  POP | reg[1]
+[2314]  RET
+[2315]  JMP | 2734
+[2321] HALT
+[2326] HALT
+[2331] HALT
+[2336] HALT
+[2341] HALT
+[2346] HALT
+[2351] HALT
+[2356] HALT
+[2361] HALT
+[2366] HALT
+[2371] HALT
+[2376] HALT
+[2421] HALT
+[2451] HALT
+[2456] HALT
+[2461] HALT
+[2462] HALT
+[2472] HALT
+[2477] HALT
+[2482] HALT
+[2487] HALT
+[2492] HALT
+[2497] HALT
+[2502] HALT
+[2507] HALT
+[2512] HALT
+[2517] HALT
+[2522] HALT
+[2527] HALT
+[2532] HALT
+[2537] HALT
+[2542] HALT
+[2547] HALT
+[2552] HALT
+[2557] HALT
+[2652] HALT
+[2657] HALT
+[2662] HALT
+[2675] HALT
+[2715] HALT
+[2719] HALT
+[2727] HALT
+[2731] HALT
+[2733] HALT
+[2734] PUSH | reg[0]
+[2736] PUSH | reg[1]
+[2738] PUSH | reg[2]
+[2740] PUSH | reg[3]
+[2742] RMEM | reg[1] 2732
+[2745] RMEM | reg[0] 2733
+[2748]   EQ | reg[0] reg[0] reg[1]
+[2752]   JT | reg[0] 2770
+[2755] RMEM | reg[0] 2732
+[2758]  ADD | reg[0] reg[0] 4
+[2762] RMEM | reg[0] reg[0]
+[2765]   JF | reg[0] 2770
+[2768] CALL | reg[0]
+[2770] RMEM | reg[1] 2732
+[2773] RMEM | reg[0] 2733
+[2776]   EQ | reg[0] reg[0] reg[1]
+[2780]   JT | reg[0] 2791
+[2783]  SET | reg[0] 25974
+[2786] WMEM | reg[0] 0
+[2789] CALL | 2964
+[2791] WMEM | 2733 reg[1]
+[2794] PUSH | reg[0]
+[2796] PUSH | reg[1]
+[2798] PUSH | reg[2]
+[2800]  SET | reg[0] 27414
+[2803]  SET | reg[1] 1531
+[2806]  ADD | reg[2] 20412 1979
+[2810] CALL | 1458
+[2812]  POP | reg[2]
+[2814]  POP | reg[1]
+[2816]  POP | reg[0]
+[2818]  SET | reg[0] 32
+[2821]  SET | reg[1] 25974
+[2824] CALL | 1767
+[2826]  OUT | 
+
+[2828]  OUT | 
+
+[2830]  SET | reg[0] 25974
+[2833]  SET | reg[1] 32
+[2836] CALL | 1571
+[2838]   EQ | reg[1] reg[0] 32767
+[2842]   JF | reg[1] 2848
+[2845] RMEM | reg[0] 25974
+[2848]  SET | reg[2] reg[0]
+[2851] RMEM | reg[1] 25974
+[2854] PUSH | reg[1]
+[2856] WMEM | 25974 reg[2]
+[2859]  SET | reg[0] 27398
+[2862]  SET | reg[1] 25974
+[2865] CALL | 1588
+[2867]  POP | reg[1]
+[2869] WMEM | 25974 reg[1]
+[2872]   EQ | reg[1] reg[0] 32767
+[2876]   JF | reg[1] 2885
+[2879]  SET | reg[0] 0
+[2882]  SET | reg[2] 0
+[2885]  ADD | reg[1] 27406 1
+[2889]  ADD | reg[1] reg[1] reg[0]
+[2893] RMEM | reg[1] reg[1]
+[2896] RMEM | reg[3] 25974
+[2899]   EQ | reg[3] reg[3] reg[2]
+[2903]   JT | reg[3] 2944
+[2906] MULT | reg[0] reg[2] 32767
+[2910] RMEM | reg[3] 25974
+[2913]  ADD | reg[3] reg[0] reg[3]
+[2917]   JF | reg[2] 2924
+[2920]  ADD | reg[3] reg[3] 32767
+[2924]  MOD | reg[3] reg[3] 32
+[2928]  ADD | reg[0] 25974 reg[2]
+[2932]   JF | reg[2] 2939
+[2935]  ADD | reg[0] reg[0] 1
+[2939] WMEM | reg[0] reg[3]
+[2942]  JMP | 2950
+[2944]  SET | reg[0] 25974
+[2947] WMEM | reg[0] 0
+[2950] CALL | reg[1]
+[2952]   JT | reg[1] 2742
+[2955]  POP | reg[3]
+[2957]  POP | reg[2]
+[2959]  POP | reg[1]
+[2961]  POP | reg[0]
+[2963]  RET
+[2964] PUSH | reg[0]
+[2966] PUSH | reg[1]
+[2968] PUSH | reg[2]
+[2970] RMEM | reg[1] reg[0]
+[2973]   JF | reg[1] 3032
+[2976] CALL | 5921
+[2978]   JF | reg[0] 3006
+[2981] PUSH | reg[0]
+[2983] CALL | 5990
+[2985]  SET | reg[1] reg[0]
+[2988]  POP | reg[0]
+[2990]   JF | reg[1] 3006
+[2993]  ADD | reg[1] reg[0] 1
+[2997] RMEM | reg[0] reg[1]
+[3000] CALL | 1518
+[3002]  OUT | 
+
+[3004]  JMP | 3238
+[3006] PUSH | reg[0]
+[3008] PUSH | reg[1]
+[3010] PUSH | reg[2]
+[3012]  SET | reg[0] 27432
+[3015]  SET | reg[1] 1531
+[3018]  ADD | reg[2] 1756 26514
+[3022] CALL | 1458
+[3024]  POP | reg[2]
+[3026]  POP | reg[1]
+[3028]  POP | reg[0]
+[3030]  JMP | 3238
+[3032] RMEM | reg[0] 2732
+[3035] PUSH | reg[0]
+[3037]  OUT | =
+[3039]  OUT | =
+[3041]  OUT |  
+[3043]  ADD | reg[0] reg[0] 0
+[3047] RMEM | reg[0] reg[0]
+[3050] CALL | 1518
+[3052]  OUT |  
+[3054]  OUT | =
+[3056]  OUT | =
+[3058]  OUT | 
+
+[3060]  POP | reg[0]
+[3062] PUSH | reg[0]
+[3064]  ADD | reg[0] reg[0] 1
+[3068] RMEM | reg[0] reg[0]
+[3071] RMEM | reg[1] reg[0]
+[3074]   EQ | reg[1] reg[1] 2
+[3078]   JF | reg[1] 3104
+[3081] PUSH | reg[0]
+[3083]  SET | reg[0] 2680
+[3086] CALL | 5990
+[3088]  SET | reg[1] reg[0]
+[3091]  POP | reg[0]
+[3093]  ADD | reg[0] reg[0] 1
+[3097]  ADD | reg[0] reg[0] reg[1]
+[3101] RMEM | reg[0] reg[0]
+[3104] CALL | 1518
+[3106]  OUT | 
+
+[3108]  POP | reg[0]
+[3110] PUSH | reg[0]
+[3112] CALL | 5823
+[3114]   JF | reg[0] 3146
+[3117] PUSH | reg[0]
+[3119] PUSH | reg[1]
+[3121] PUSH | reg[2]
+[3123]  SET | reg[0] 27455
+[3126]  SET | reg[1] 1531
+[3129]  ADD | reg[2] 19027 10280
+[3133] CALL | 1458
+[3135]  POP | reg[2]
+[3137]  POP | reg[1]
+[3139]  POP | reg[0]
+[3141] RMEM | reg[2] 2732
+[3144] CALL | 5876
+[3146]  POP | reg[0]
+[3148] PUSH | reg[0]
+[3150]  ADD | reg[0] reg[0] 2
+[3154] RMEM | reg[0] reg[0]
+[3157] RMEM | reg[0] reg[0]
+[3160]   EQ | reg[2] reg[0] 1
+[3164]  OUT | 
+
+[3166]  OUT | T
+[3168]  OUT | h
+[3170]  OUT | e
+[3172]  OUT | r
+[3174]  OUT | e
+[3176]  OUT |  
+[3178]   JT | reg[2] 3189
+[3181]  OUT | a
+[3183]  OUT | r
+[3185]  OUT | e
+[3187]  JMP | 3193
+[3189]  OUT | i
+[3191]  OUT | s
+[3193]  OUT |  
+[3195] CALL | 2001
+[3197]  OUT |  
+[3199]  OUT | e
+[3201]  OUT | x
+[3203]  OUT | i
+[3205]  OUT | t
+[3207]   EQ | reg[2] reg[0] 1
+[3211]   JT | reg[2] 3216
+[3214]  OUT | s
+[3216]  OUT | :
+[3218]  OUT | 
+
+[3220]  POP | reg[0]
+[3222] PUSH | reg[0]
+[3224]  ADD | reg[0] reg[0] 2
+[3228] RMEM | reg[0] reg[0]
+[3231]  SET | reg[1] 5814
+[3234] CALL | 1458
+[3236]  POP | reg[0]
+[3238]  POP | reg[2]
+[3240]  POP | reg[1]
+[3242]  POP | reg[0]
+[3244]  RET
+[3245] PUSH | reg[0]
+[3247] PUSH | reg[1]
+[3249] PUSH | reg[2]
+[3251]  SET | reg[1] reg[0]
+[3254] RMEM | reg[0] 2732
+[3257]  ADD | reg[0] reg[0] 2
+[3261] RMEM | reg[0] reg[0]
+[3264] CALL | 1588
+[3266]   EQ | reg[2] reg[0] 32767
+[3270]   JT | reg[2] 3302
+[3273] RMEM | reg[2] 2732
+[3276]  ADD | reg[2] reg[2] 3
+[3280] RMEM | reg[2] reg[2]
+[3283]  ADD | reg[2] reg[2] 1
+[3287]  ADD | reg[2] reg[2] reg[0]
+[3291] RMEM | reg[2] reg[2]
+[3294] WMEM | 2732 reg[2]
+[3297] WMEM | 2733 0
+[3300]  JMP | 3326
+[3302] PUSH | reg[0]
+[3304] PUSH | reg[1]
+[3306] PUSH | reg[2]
+[3308]  SET | reg[0] 27482
+[3311]  SET | reg[1] 1531
+[3314]  ADD | reg[2] 1204 23476
+[3318] CALL | 1458
+[3320]  POP | reg[2]
+[3322]  POP | reg[1]
+[3324]  POP | reg[0]
+[3326]  POP | reg[2]
+[3328]  POP | reg[1]
+[3330]  POP | reg[0]
+[3332]  RET
+[3333] PUSH | reg[0]
+[3335] PUSH | reg[0]
+[3337] PUSH | reg[1]
+[3339] PUSH | reg[2]
+[3341]  SET | reg[0] 27532
+[3344]  SET | reg[1] 1531
+[3347]  ADD | reg[2] 13293 13573
+[3351] CALL | 1458
+[3353]  POP | reg[2]
+[3355]  POP | reg[1]
+[3357]  POP | reg[0]
+[3359]  POP | reg[0]
+[3361]  RET
+[3362] PUSH | reg[0]
+[3364] PUSH | reg[2]
+[3366] PUSH | reg[0]
+[3368] PUSH | reg[1]
+[3370] PUSH | reg[2]
+[3372]  SET | reg[0] 28037
+[3375]  SET | reg[1] 1531
+[3378]  ADD | reg[2] 10653 9551
+[3382] CALL | 1458
+[3384]  POP | reg[2]
+[3386]  POP | reg[1]
+[3388]  POP | reg[0]
+[3390]  SET | reg[2] 0
+[3393] CALL | 5876
+[3395]  POP | reg[2]
+[3397]  POP | reg[0]
+[3399]  RET
+[3400] PUSH | reg[0]
+[3402] PUSH | reg[1]
+[3404] PUSH | reg[2]
+[3406] CALL | 5921
+[3408]   JF | reg[0] 3457
+[3411]  ADD | reg[1] reg[0] 2
+[3415] RMEM | reg[0] reg[1]
+[3418] RMEM | reg[2] 2732
+[3421]   EQ | reg[2] reg[0] reg[2]
+[3425]   JF | reg[2] 3457
+[3428] WMEM | reg[1] 0
+[3431] PUSH | reg[0]
+[3433] PUSH | reg[1]
+[3435] PUSH | reg[2]
+[3437]  SET | reg[0] 28054
+[3440]  SET | reg[1] 1531
+[3443]  ADD | reg[2] 1609 2216
+[3447] CALL | 1458
+[3449]  POP | reg[2]
+[3451]  POP | reg[1]
+[3453]  POP | reg[0]
+[3455]  JMP | 3481
+[3457] PUSH | reg[0]
+[3459] PUSH | reg[1]
+[3461] PUSH | reg[2]
+[3463]  SET | reg[0] 28062
+[3466]  SET | reg[1] 1531
+[3469]  ADD | reg[2] 5965 1188
+[3473] CALL | 1458
+[3475]  POP | reg[2]
+[3477]  POP | reg[1]
+[3479]  POP | reg[0]
+[3481]  POP | reg[2]
+[3483]  POP | reg[1]
+[3485]  POP | reg[0]
+[3487]  RET
+[3488] PUSH | reg[0]
+[3490] PUSH | reg[1]
+[3492] CALL | 5921
+[3494]   JF | reg[0] 3539
+[3497]  ADD | reg[1] reg[0] 2
+[3501] RMEM | reg[0] reg[1]
+[3504]   JT | reg[0] 3539
+[3507] RMEM | reg[0] 2732
+[3510] WMEM | reg[1] reg[0]
+[3513] PUSH | reg[0]
+[3515] PUSH | reg[1]
+[3517] PUSH | reg[2]
+[3519]  SET | reg[0] 28090
+[3522]  SET | reg[1] 1531
+[3525]  ADD | reg[2] 12199 7884
+[3529] CALL | 1458
+[3531]  POP | reg[2]
+[3533]  POP | reg[1]
+[3535]  POP | reg[0]
+[3537]  JMP | 3563
+[3539] PUSH | reg[0]
+[3541] PUSH | reg[1]
+[3543] PUSH | reg[2]
+[3545]  SET | reg[0] 28100
+[3548]  SET | reg[1] 1531
+[3551]  ADD | reg[2] 26966 5536
+[3555] CALL | 1458
+[3557]  POP | reg[2]
+[3559]  POP | reg[1]
+[3561]  POP | reg[0]
+[3563]  POP | reg[1]
+[3565]  POP | reg[0]
+[3567]  RET
+[3568] PUSH | reg[0]
+[3570] PUSH | reg[1]
+[3572] CALL | 5921
+[3574]   JF | reg[0] 3601
+[3577]  ADD | reg[1] reg[0] 2
+[3581] RMEM | reg[1] reg[1]
+[3584]   JT | reg[1] 3601
+[3587]  ADD | reg[1] reg[0] 3
+[3591] RMEM | reg[1] reg[1]
+[3594]   JF | reg[1] 3627
+[3597] CALL | reg[1]
+[3599]  JMP | 3651
+[3601] PUSH | reg[0]
+[3603] PUSH | reg[1]
+[3605] PUSH | reg[2]
+[3607]  SET | reg[0] 28135
+[3610]  SET | reg[1] 1531
+[3613]  ADD | reg[2] 3025 3496
+[3617] CALL | 1458
+[3619]  POP | reg[2]
+[3621]  POP | reg[1]
+[3623]  POP | reg[0]
+[3625]  JMP | 3651
+[3627] PUSH | reg[0]
+[3629] PUSH | reg[1]
+[3631] PUSH | reg[2]
+[3633]  SET | reg[0] 28170
+[3636]  SET | reg[1] 1531
+[3639]  ADD | reg[2] 3258 3375
+[3643] CALL | 1458
+[3645]  POP | reg[2]
+[3647]  POP | reg[1]
+[3649]  POP | reg[0]
+[3651]  POP | reg[1]
+[3653]  POP | reg[0]
+[3655]  RET
+[3656] PUSH | reg[0]
+[3658] PUSH | reg[1]
+[3660] PUSH | reg[2]
+[3662]  SET | reg[0] 2680
+[3665] CALL | 5990
+[3667]   JT | reg[0] 3694
+[3670]  ADD | reg[0] 2676 2
+[3674] WMEM | reg[0] 32767
+[3677]  ADD | reg[0] 2680 2
+[3681] WMEM | reg[0] 32767
+[3684]  ADD | reg[0] 2672 2
+[3688] WMEM | reg[0] 32767
+[3691] WMEM | 2732 2648
+[3694]  POP | reg[2]
+[3696]  POP | reg[1]
+[3698]  POP | reg[0]
+[3700]  RET
+[3701] PUSH | reg[0]
+[3703] PUSH | reg[1]
+[3705] PUSH | reg[2]
+[3707]  SET | reg[0] 28204
+[3710]  SET | reg[1] 1531
+[3713]  ADD | reg[2] 3771 12838
+[3717] CALL | 1458
+[3719]  POP | reg[2]
+[3721]  POP | reg[1]
+[3723]  POP | reg[0]
+[3725] HALT
+[3726] HALT
+[3727] PUSH | reg[1]
+[3729] RMEM | reg[1] 3726
+[3732]   OR | reg[1] reg[1] reg[0]
+[3736] WMEM | 3726 reg[1]
+[3739]  POP | reg[1]
+[3741]  RET
+[3742] WMEM | 3726 0
+[3745]  RET
+[3746] PUSH | reg[0]
+[3748]  SET | reg[0] 1
+[3751] CALL | 3727
+[3753]  POP | reg[0]
+[3755]  RET
+[3756] PUSH | reg[0]
+[3758]  SET | reg[0] 2
+[3761] CALL | 3727
+[3763]  POP | reg[0]
+[3765]  RET
+[3766] PUSH | reg[0]
+[3768]  SET | reg[0] 4
+[3771] CALL | 3727
+[3773]  POP | reg[0]
+[3775]  RET
+[3776] PUSH | reg[0]
+[3778]  SET | reg[0] 8
+[3781] CALL | 3727
+[3783]  POP | reg[0]
+[3785]  RET
+[3786] PUSH | reg[0]
+[3788]  SET | reg[0] 16
+[3791] CALL | 3727
+[3793]  POP | reg[0]
+[3795]  RET
+[3796] PUSH | reg[0]
+[3798]  SET | reg[0] 32
+[3801] CALL | 3727
+[3803]  POP | reg[0]
+[3805]  RET
+[3806] PUSH | reg[0]
+[3808] PUSH | reg[1]
+[3810] PUSH | reg[2]
+[3812] PUSH | reg[3]
+[3814]  SET | reg[0] 64
+[3817] CALL | 3727
+[3819] PUSH | reg[0]
+[3821] PUSH | reg[1]
+[3823] PUSH | reg[2]
+[3825]  SET | reg[0] 28236
+[3828]  SET | reg[1] 1531
+[3831]  ADD | reg[2] 7349 11721
+[3835] CALL | 1458
+[3837]  POP | reg[2]
+[3839]  POP | reg[1]
+[3841]  POP | reg[0]
+[3843] RMEM | reg[0] 3726
+[3846]  SET | reg[1] 25866
+[3849]  SET | reg[2] 32767
+[3852]  SET | reg[3] 28299
+[3855] CALL | 1841
+[3857] PUSH | reg[0]
+[3859] PUSH | reg[1]
+[3861] PUSH | reg[2]
+[3863]  SET | reg[0] 28303
+[3866]  SET | reg[1] 1531
+[3869]  ADD | reg[2] 12317 9040
+[3873] CALL | 1458
+[3875]  POP | reg[2]
+[3877]  POP | reg[1]
+[3879]  POP | reg[0]
+[3881] WMEM | 2732 2417
+[3884]  POP | reg[3]
+[3886]  POP | reg[2]
+[3888]  POP | reg[1]
+[3890]  POP | reg[0]
+[3892]  RET
+[3893] PUSH | reg[0]
+[3895] PUSH | reg[1]
+[3897] RMEM | reg[0] 2462
+[3900] RMEM | reg[1] 27101
+[3903]   EQ | reg[0] reg[0] reg[1]
+[3907]   JT | reg[0] 3940
+[3910] PUSH | reg[0]
+[3912] PUSH | reg[1]
+[3914] PUSH | reg[2]
+[3916]  SET | reg[0] 28347
+[3919]  SET | reg[1] 1531
+[3922]  ADD | reg[2] 3474 27108
+[3926] CALL | 1458
+[3928]  POP | reg[2]
+[3930]  POP | reg[1]
+[3932]  POP | reg[0]
+[3934] WMEM | 2732 2457
+[3937] WMEM | 2733 2457
+[3940]  POP | reg[1]
+[3942]  POP | reg[0]
+[3944]  RET
+[3951] HALT
+[3953] HALT
+[3954] HALT
+[3955] HALT
+[3956] HALT
+[3957] HALT
+[3958] PUSH | reg[0]
+[3960] PUSH | reg[1]
+[3962]  SET | reg[0] 2
+[3965]  SET | reg[1] 0
+[3968] CALL | 4218
+[3970]  POP | reg[1]
+[3972]  POP | reg[0]
+[3974]  RET
+[3975] PUSH | reg[0]
+[3977] PUSH | reg[1]
+[3979]  SET | reg[0] 8
+[3982]  SET | reg[1] 1
+[3985] CALL | 4279
+[3987]  POP | reg[1]
+[3989]  POP | reg[0]
+[3991]  RET
+[3992] PUSH | reg[0]
+[3994] PUSH | reg[1]
+[3996]  SET | reg[0] 1
+[3999]  SET | reg[1] 2
+[4002] CALL | 4218
+[4004]  POP | reg[1]
+[4006]  POP | reg[0]
+[4008]  RET
+[4009] PUSH | reg[0]
+[4011] PUSH | reg[1]
+[4013]  SET | reg[0] 1
+[4016]  SET | reg[1] 3
+[4019] CALL | 4279
+[4021] CALL | 4533
+[4023]  POP | reg[1]
+[4025]  POP | reg[0]
+[4027]  RET
+[4028] PUSH | reg[0]
+[4030] PUSH | reg[1]
+[4032]  SET | reg[0] 4
+[4035]  SET | reg[1] 4
+[4038] CALL | 4279
+[4040]  POP | reg[1]
+[4042]  POP | reg[0]
+[4044]  RET
+[4045] PUSH | reg[0]
+[4047] PUSH | reg[1]
+[4049]  SET | reg[0] 2
+[4052]  SET | reg[1] 5
+[4055] CALL | 4218
+[4057]  POP | reg[1]
+[4059]  POP | reg[0]
+[4061]  RET
+[4062] PUSH | reg[0]
+[4064] PUSH | reg[1]
+[4066]  SET | reg[0] 11
+[4069]  SET | reg[1] 6
+[4072] CALL | 4279
+[4074]  POP | reg[1]
+[4076]  POP | reg[0]
+[4078]  RET
+[4079] PUSH | reg[0]
+[4081] PUSH | reg[1]
+[4083]  SET | reg[0] 2
+[4086]  SET | reg[1] 7
+[4089] CALL | 4218
+[4091]  POP | reg[1]
+[4093]  POP | reg[0]
+[4095]  RET
+[4096] PUSH | reg[0]
+[4098] PUSH | reg[1]
+[4100]  SET | reg[0] 0
+[4103]  SET | reg[1] 8
+[4106] CALL | 4218
+[4108]  POP | reg[1]
+[4110]  POP | reg[0]
+[4112]  RET
+[4113] PUSH | reg[0]
+[4115] PUSH | reg[1]
+[4117]  SET | reg[0] 4
+[4120]  SET | reg[1] 9
+[4123] CALL | 4279
+[4125]  POP | reg[1]
+[4127]  POP | reg[0]
+[4129]  RET
+[4130] PUSH | reg[0]
+[4132] PUSH | reg[1]
+[4134]  SET | reg[0] 1
+[4137]  SET | reg[1] 10
+[4140] CALL | 4218
+[4142]  POP | reg[1]
+[4144]  POP | reg[0]
+[4146]  RET
+[4147] PUSH | reg[0]
+[4149] PUSH | reg[1]
+[4151]  SET | reg[0] 18
+[4154]  SET | reg[1] 11
+[4157] CALL | 4279
+[4159]  POP | reg[1]
+[4161]  POP | reg[0]
+[4163]  RET
+[4164] CALL | 4611
+[4166]  RET
+[4167] PUSH | reg[0]
+[4169] PUSH | reg[1]
+[4171]  SET | reg[0] 1
+[4174]  SET | reg[1] 12
+[4177] CALL | 4218
+[4179]  POP | reg[1]
+[4181]  POP | reg[0]
+[4183]  RET
+[4184] PUSH | reg[0]
+[4186] PUSH | reg[1]
+[4188]  SET | reg[0] 9
+[4191]  SET | reg[1] 13
+[4194] CALL | 4279
+[4196]  POP | reg[1]
+[4198]  POP | reg[0]
+[4200]  RET
+[4201] PUSH | reg[0]
+[4203] PUSH | reg[1]
+[4205]  SET | reg[0] 2
+[4208]  SET | reg[1] 14
+[4211] CALL | 4218
+[4213]  POP | reg[1]
+[4215]  POP | reg[0]
+[4217]  RET
+[4218] PUSH | reg[0]
+[4220] PUSH | reg[1]
+[4222] PUSH | reg[2]
+[4224]  ADD | reg[2] 2716 2
+[4228] RMEM | reg[2] reg[2]
+[4231]   JT | reg[2] 4272
+[4234] CALL | 4405
+[4236] WMEM | 3951 reg[0]
+[4239]  ADD | reg[1] reg[0] 3945
+[4243] RMEM | reg[1] reg[1]
+[4246]  SET | reg[0] 26024
+[4249] CALL | 1518
+[4251]  SET | reg[0] reg[1]
+[4254] CALL | 1518
+[4256]  SET | reg[0] 26088
+[4259] CALL | 1518
+[4261]  SET | reg[0] reg[1]
+[4264] CALL | 1518
+[4266]  OUT | .
+[4268]  OUT | 
+
+[4270]  OUT | 
+
+[4272]  POP | reg[2]
+[4274]  POP | reg[1]
+[4276]  POP | reg[0]
+[4278]  RET
+[4279] PUSH | reg[0]
+[4281] PUSH | reg[1]
+[4283] PUSH | reg[2]
+[4285]  ADD | reg[2] 2716 2
+[4289] RMEM | reg[2] reg[2]
+[4292]   JT | reg[2] 4398
+[4295] CALL | 4405
+[4297] PUSH | reg[0]
+[4299] RMEM | reg[0] 3951
+[4302]  ADD | reg[1] reg[0] 3945
+[4306] RMEM | reg[1] reg[1]
+[4309]  SET | reg[0] 26122
+[4312] CALL | 1518
+[4314]  SET | reg[0] reg[1]
+[4317] CALL | 1518
+[4319]  SET | reg[0] 26170
+[4322] CALL | 1518
+[4324]  POP | reg[0]
+[4326]  SET | reg[1] reg[0]
+[4329] RMEM | reg[0] 3952
+[4332] RMEM | reg[2] 3951
+[4335]  ADD | reg[2] reg[2] 3948
+[4339] RMEM | reg[2] reg[2]
+[4342] CALL | reg[2]
+[4344]   JT | reg[1] 4391
+[4347] RMEM | reg[1] 3952
+[4350] WMEM | 3952 reg[0]
+[4353]   GT | reg[2] reg[0] reg[1]
+[4357]   JF | reg[2] 4369
+[4360] PUSH | reg[0]
+[4362]  SET | reg[0] 26235
+[4365] CALL | 1518
+[4367]  POP | reg[0]
+[4369]   GT | reg[2] reg[1] reg[0]
+[4373]   JF | reg[2] 4385
+[4376] PUSH | reg[0]
+[4378]  SET | reg[0] 26267
+[4381] CALL | 1518
+[4383]  POP | reg[0]
+[4385]  OUT | 
+
+[4387]  OUT | 
+
+[4389]  JMP | 4398
+[4391] CALL | 4660
+[4393]  SET | reg[0] 26299
+[4396] CALL | 1518
+[4398]  POP | reg[2]
+[4400]  POP | reg[1]
+[4402]  POP | reg[0]
+[4404]  RET
+[4405] PUSH | reg[0]
+[4407] PUSH | reg[1]
+[4409] PUSH | reg[2]
+[4411] PUSH | reg[3]
+[4413] PUSH | reg[4]
+[4415] PUSH | reg[5]
+[4417] RMEM | reg[5] 3953
+[4420]   GT | reg[3] reg[5] 29999
+[4424]   JT | reg[3] 4434
+[4427]  ADD | reg[5] reg[5] 1
+[4431] WMEM | 3953 reg[5]
+[4434]  SET | reg[3] reg[0]
+[4437]  SET | reg[4] reg[1]
+[4440]  ADD | reg[0] reg[5] 2
+[4444] CALL | 2281
+[4446] RMEM | reg[1] 3954
+[4449]   OR | reg[0] reg[1] reg[0]
+[4453]  SET | reg[1] reg[4]
+[4456] CALL | 2248
+[4458] WMEM | 3954 reg[0]
+[4461]  SET | reg[0] 3955
+[4464]  ADD | reg[1] reg[5] 2
+[4468]  SET | reg[2] reg[4]
+[4471] CALL | 4515
+[4473]  SET | reg[0] 3956
+[4476] MULT | reg[1] reg[5] reg[5]
+[4480] MULT | reg[2] reg[4] reg[4]
+[4484] CALL | 4515
+[4486]  SET | reg[0] 3957
+[4489]  SET | reg[1] 13
+[4492] MULT | reg[2] reg[3] 9
+[4496] MULT | reg[2] reg[2] reg[2]
+[4500] CALL | 4515
+[4502]  POP | reg[5]
+[4504]  POP | reg[4]
+[4506]  POP | reg[3]
+[4508]  POP | reg[2]
+[4510]  POP | reg[1]
+[4512]  POP | reg[0]
+[4514]  RET
+[4515] PUSH | reg[0]
+[4517] RMEM | reg[0] reg[0]
+[4520] CALL | 2248
+[4522]  SET | reg[1] reg[2]
+[4525] CALL | 2125
+[4527]  POP | reg[1]
+[4529] WMEM | reg[1] reg[0]
+[4532]  RET
+[4533] PUSH | reg[0]
+[4535]  ADD | reg[0] 2716 2
+[4539] RMEM | reg[0] reg[0]
+[4542]   JT | reg[0] 4608
+[4545]  SET | reg[0] 26321
+[4548] CALL | 1518
+[4550] RMEM | reg[0] 3952
+[4553]   EQ | reg[0] reg[0] 30
+[4557]   JT | reg[0] 4574
+[4560]  SET | reg[0] 26354
+[4563] CALL | 1518
+[4565]  SET | reg[0] 26398
+[4568] CALL | 1518
+[4570] CALL | 4660
+[4572]  JMP | 4608
+[4574]  SET | reg[0] 26440
+[4577] CALL | 1518
+[4579] RMEM | reg[0] 3954
+[4582]  ADD | reg[0] reg[0] 1
+[4586]   JT | reg[0] 4596
+[4589]  SET | reg[0] 26484
+[4592] CALL | 1518
+[4594]  JMP | 4565
+[4596]  SET | reg[0] 26584
+[4599] CALL | 1518
+[4601]  ADD | reg[0] 2716 2
+[4605] WMEM | reg[0] 32767
+[4608]  POP | reg[0]
+[4610]  RET
+[4611] PUSH | reg[0]
+[4613]  ADD | reg[0] 2716 2
+[4617] RMEM | reg[0] reg[0]
+[4620]   JT | reg[0] 4657
+[4623]  SET | reg[0] 26717
+[4626] CALL | 1518
+[4628] RMEM | reg[0] 2732
+[4631]   EQ | reg[0] reg[0] 2623
+[4635]   JT | reg[0] 4645
+[4638]  SET | reg[0] 26725
+[4641] CALL | 1518
+[4643]  JMP | 4650
+[4645]  SET | reg[0] 26731
+[4648] CALL | 1518
+[4650]  SET | reg[0] 26737
+[4653] CALL | 1518
+[4655] CALL | 4660
+[4657]  POP | reg[0]
+[4659]  RET
+[4660] PUSH | reg[0]
+[4662] WMEM | 3952 22
+[4665] WMEM | 3953 0
+[4668] WMEM | 3954 0
+[4671] WMEM | 3955 0
+[4674] WMEM | 3956 0
+[4677] WMEM | 3957 0
+[4680]  ADD | reg[0] 2716 2
+[4684] WMEM | reg[0] 2623
+[4687]  POP | reg[0]
+[4689]  RET
+[4690] PUSH | reg[0]
+[4692]  ADD | reg[0] 2716 2
+[4696] RMEM | reg[0] reg[0]
+[4699]   EQ | reg[0] reg[0] 32767
+[4703]   JT | reg[0] 4717
+[4706]  SET | reg[0] 26824
+[4709] CALL | 1518
+[4711] WMEM | 2732 2578
+[4714] WMEM | 2733 2578
+[4717]  POP | reg[0]
+[4719]  RET
+[4720] PUSH | reg[0]
+[4722] PUSH | reg[1]
+[4724] PUSH | reg[2]
+[4726] PUSH | reg[3]
+[4728] PUSH | reg[0]
+[4730] PUSH | reg[1]
+[4732] PUSH | reg[2]
+[4734]  SET | reg[0] 28369
+[4737]  SET | reg[1] 1531
+[4740]  ADD | reg[2] 27700 444
+[4744] CALL | 1458
+[4746]  POP | reg[2]
+[4748]  POP | reg[1]
+[4750]  POP | reg[0]
+[4752]  SET | reg[0] 4242
+[4755]  SET | reg[1] 25866
+[4758]  SET | reg[2] 32767
+[4761]  SET | reg[3] 28397
+[4764] CALL | 1841
+[4766] PUSH | reg[0]
+[4768] PUSH | reg[1]
+[4770] PUSH | reg[2]
+[4772]  SET | reg[0] 28401
+[4775]  SET | reg[1] 1531
+[4778]  ADD | reg[2] 1251 11525
+[4782] CALL | 1458
+[4784]  POP | reg[2]
+[4786]  POP | reg[1]
+[4788]  POP | reg[0]
+[4790]  POP | reg[3]
+[4792]  POP | reg[2]
+[4794]  POP | reg[1]
+[4796]  POP | reg[0]
+[4798]  RET
+[4799] PUSH | reg[0]
+[4801]  ADD | reg[0] 2672 2
+[4805] RMEM | reg[0] reg[0]
+[4808]   JT | reg[0] 4858
+[4811]  ADD | reg[0] 2684 2
+[4815] WMEM | reg[0] 32767
+[4818]  ADD | reg[0] 2672 2
+[4822] WMEM | reg[0] 32767
+[4825]  ADD | reg[0] 2676 2
+[4829] WMEM | reg[0] 0
+[4832] PUSH | reg[0]
+[4834] PUSH | reg[1]
+[4836] PUSH | reg[2]
+[4838]  SET | reg[0] 28453
+[4841]  SET | reg[1] 1531
+[4844]  ADD | reg[2] 476 1942
+[4848] CALL | 1458
+[4850]  POP | reg[2]
+[4852]  POP | reg[1]
+[4854]  POP | reg[0]
+[4856]  JMP | 4882
+[4858] PUSH | reg[0]
+[4860] PUSH | reg[1]
+[4862] PUSH | reg[2]
+[4864]  SET | reg[0] 28510
+[4867]  SET | reg[1] 1531
+[4870]  ADD | reg[2] 240 264
+[4874] CALL | 1458
+[4876]  POP | reg[2]
+[4878]  POP | reg[1]
+[4880]  POP | reg[0]
+[4882]  POP | reg[0]
+[4884]  RET
+[4885] PUSH | reg[0]
+[4887]  ADD | reg[0] 2676 2
+[4891] WMEM | reg[0] 32767
+[4894]  ADD | reg[0] 2680 2
+[4898] WMEM | reg[0] 0
+[4901] PUSH | reg[0]
+[4903] PUSH | reg[1]
+[4905] PUSH | reg[2]
+[4907]  SET | reg[0] 28569
+[4910]  SET | reg[1] 1531
+[4913]  ADD | reg[2] 759 2684
+[4917] CALL | 1458
+[4919]  POP | reg[2]
+[4921]  POP | reg[1]
+[4923]  POP | reg[0]
+[4925] WMEM | 2733 0
+[4928]  POP | reg[0]
+[4930]  RET
+[4931] PUSH | reg[0]
+[4933]  ADD | reg[0] 2676 2
+[4937] WMEM | reg[0] 0
+[4940]  ADD | reg[0] 2680 2
+[4944] WMEM | reg[0] 32767
+[4947] PUSH | reg[0]
+[4949] PUSH | reg[1]
+[4951] PUSH | reg[2]
+[4953]  SET | reg[0] 28595
+[4956]  SET | reg[1] 1531
+[4959]  ADD | reg[2] 287 5582
+[4963] CALL | 1458
+[4965]  POP | reg[2]
+[4967]  POP | reg[1]
+[4969]  POP | reg[0]
+[4971] WMEM | 2733 0
+[4974]  POP | reg[0]
+[4976]  RET
+[4977] PUSH | reg[2]
+[4979] PUSH | reg[3]
+[4981] RMEM | reg[2] 2732
+[4984]   EQ | reg[2] reg[2] 2457
+[4988]   JT | reg[2] 5017
+[4991] PUSH | reg[0]
+[4993] PUSH | reg[1]
+[4995] PUSH | reg[2]
+[4997]  SET | reg[0] 28621
+[5000]  SET | reg[1] 1531
+[5003]  ADD | reg[2] 18901 1825
+[5007] CALL | 1458
+[5009]  POP | reg[2]
+[5011]  POP | reg[1]
+[5013]  POP | reg[0]
+[5015]  JMP | 5336
+[5017]  ADD | reg[2] reg[0] 2
+[5021] WMEM | reg[2] 32767
+[5024] RMEM | reg[2] 2462
+[5027]  ADD | reg[2] reg[2] 27095
+[5031]  ADD | reg[2] reg[2] 1
+[5035] RMEM | reg[2] reg[2]
+[5038]  ADD | reg[3] 2457 1
+[5042] RMEM | reg[3] reg[3]
+[5045]  ADD | reg[3] reg[3] reg[2]
+[5049]  ADD | reg[2] reg[1] 48
+[5053] WMEM | reg[3] reg[2]
+[5056] RMEM | reg[2] 2462
+[5059]  ADD | reg[2] reg[2] 27101
+[5063]  ADD | reg[2] reg[2] 1
+[5067] WMEM | reg[2] reg[1]
+[5070] PUSH | reg[0]
+[5072] PUSH | reg[0]
+[5074] PUSH | reg[1]
+[5076] PUSH | reg[2]
+[5078]  SET | reg[0] 28664
+[5081]  SET | reg[1] 1531
+[5084]  ADD | reg[2] 2418 19722
+[5088] CALL | 1458
+[5090]  POP | reg[2]
+[5092]  POP | reg[1]
+[5094]  POP | reg[0]
+[5096]  POP | reg[0]
+[5098] PUSH | reg[0]
+[5100]  ADD | reg[2] reg[0] 0
+[5104] RMEM | reg[0] reg[2]
+[5107] CALL | 1518
+[5109]  POP | reg[0]
+[5111] PUSH | reg[0]
+[5113] PUSH | reg[0]
+[5115] PUSH | reg[1]
+[5117] PUSH | reg[2]
+[5119]  SET | reg[0] 28679
+[5122]  SET | reg[1] 1531
+[5125]  ADD | reg[2] 4337 16120
+[5129] CALL | 1458
+[5131]  POP | reg[2]
+[5133]  POP | reg[1]
+[5135]  POP | reg[0]
+[5137]  POP | reg[0]
+[5139] RMEM | reg[2] 2462
+[5142]  ADD | reg[2] reg[2] 1
+[5146] WMEM | 2462 reg[2]
+[5149] RMEM | reg[3] 27101
+[5152]   EQ | reg[3] reg[2] reg[3]
+[5156]   JF | reg[3] 5336
+[5159]  SET | reg[0] 0
+[5162]  ADD | reg[1] 27101 1
+[5166] RMEM | reg[1] reg[1]
+[5169]  ADD | reg[0] reg[0] reg[1]
+[5173]  ADD | reg[1] 27101 2
+[5177] RMEM | reg[1] reg[1]
+[5180]  ADD | reg[2] 27101 3
+[5184] RMEM | reg[2] reg[2]
+[5187] MULT | reg[2] reg[2] reg[2]
+[5191] MULT | reg[1] reg[1] reg[2]
+[5195]  ADD | reg[0] reg[0] reg[1]
+[5199]  ADD | reg[1] 27101 4
+[5203] RMEM | reg[1] reg[1]
+[5206] MULT | reg[2] reg[1] reg[1]
+[5210] MULT | reg[2] reg[2] reg[1]
+[5214]  ADD | reg[0] reg[0] reg[2]
+[5218]  ADD | reg[1] 27101 5
+[5222] RMEM | reg[1] reg[1]
+[5225] MULT | reg[1] reg[1] 32767
+[5229]  ADD | reg[0] reg[0] reg[1]
+[5233]   EQ | reg[1] reg[0] 399
+[5237]   JT | reg[1] 5312
+[5240]  ADD | reg[2] 2688 2
+[5244] WMEM | reg[2] 2457
+[5247]  ADD | reg[2] 2692 2
+[5251] WMEM | reg[2] 2457
+[5254]  ADD | reg[2] 2696 2
+[5258] WMEM | reg[2] 2457
+[5261]  ADD | reg[2] 2700 2
+[5265] WMEM | reg[2] 2457
+[5268]  ADD | reg[2] 2704 2
+[5272] WMEM | reg[2] 2457
+[5275] WMEM | 2462 0
+[5278]  SET | reg[0] 27095
+[5281]  SET | reg[1] 5341
+[5284] CALL | 1458
+[5286] PUSH | reg[0]
+[5288] PUSH | reg[1]
+[5290] PUSH | reg[2]
+[5292]  SET | reg[0] 28710
+[5295]  SET | reg[1] 1531
+[5298]  ADD | reg[2] 30268 707
+[5302] CALL | 1458
+[5304]  POP | reg[2]
+[5306]  POP | reg[1]
+[5308]  POP | reg[0]
+[5310]  JMP | 5336
+[5312] PUSH | reg[0]
+[5314] PUSH | reg[1]
+[5316] PUSH | reg[2]
+[5318]  SET | reg[0] 28777
+[5321]  SET | reg[1] 1531
+[5324]  ADD | reg[2] 15722 6538
+[5328] CALL | 1458
+[5330]  POP | reg[2]
+[5332]  POP | reg[1]
+[5334]  POP | reg[0]
+[5336]  POP | reg[3]
+[5338]  POP | reg[2]
+[5340]  RET
+[5341] PUSH | reg[2]
+[5343]  ADD | reg[2] 2457 1
+[5347] RMEM | reg[2] reg[2]
+[5350]  ADD | reg[2] reg[2] reg[0]
+[5354] WMEM | reg[2] 95
+[5357]  POP | reg[2]
+[5359]  RET
+[5360] PUSH | reg[0]
+[5362] PUSH | reg[1]
+[5364]  SET | reg[0] 2688
+[5367]  SET | reg[1] 2
+[5370] CALL | 4977
+[5372]  POP | reg[1]
+[5374]  POP | reg[0]
+[5376]  RET
+[5377] PUSH | reg[0]
+[5379] PUSH | reg[1]
+[5381]  SET | reg[0] 2692
+[5384]  SET | reg[1] 3
+[5387] CALL | 4977
+[5389]  POP | reg[1]
+[5391]  POP | reg[0]
+[5393]  RET
+[5394] PUSH | reg[0]
+[5396] PUSH | reg[1]
+[5398]  SET | reg[0] 2696
+[5401]  SET | reg[1] 5
+[5404] CALL | 4977
+[5406]  POP | reg[1]
+[5408]  POP | reg[0]
+[5410]  RET
+[5411] PUSH | reg[0]
+[5413] PUSH | reg[1]
+[5415]  SET | reg[0] 2700
+[5418]  SET | reg[1] 7
+[5421] CALL | 4977
+[5423]  POP | reg[1]
+[5425]  POP | reg[0]
+[5427]  RET
+[5428] PUSH | reg[0]
+[5430] PUSH | reg[1]
+[5432]  SET | reg[0] 2704
+[5435]  SET | reg[1] 9
+[5438] CALL | 4977
+[5440]  POP | reg[1]
+[5442]  POP | reg[0]
+[5444]  RET
+[5445] PUSH | reg[0]
+[5447] PUSH | reg[1]
+[5449] PUSH | reg[2]
+[5451]   JF | reg[7] 5605
+[5454] PUSH | reg[0]
+[5456] PUSH | reg[1]
+[5458] PUSH | reg[2]
+[5460]  SET | reg[0] 28844
+[5463]  SET | reg[1] 1531
+[5466]  ADD | reg[2] 2481 3016
+[5470] CALL | 1458
+[5472]  POP | reg[2]
+[5474]  POP | reg[1]
+[5476]  POP | reg[0]
+[5478] NOOP
+[5479] NOOP
+[5480] NOOP
+[5481] NOOP
+[5482] NOOP
+[5483]  SET | reg[0] 4
+[5486]  SET | reg[1] 1
+[5489] CALL | 6027
+[5491]   EQ | reg[1] reg[0] 6
+[5495]   JF | reg[1] 5579
+[5498] PUSH | reg[0]
+[5500] PUSH | reg[1]
+[5502] PUSH | reg[2]
+[5504]  SET | reg[0] 29014
+[5507]  SET | reg[1] 1531
+[5510]  ADD | reg[2] 1620 1568
+[5514] CALL | 1458
+[5516]  POP | reg[2]
+[5518]  POP | reg[1]
+[5520]  POP | reg[0]
+[5522]  SET | reg[0] reg[7]
+[5525]  SET | reg[1] 25866
+[5528]  SET | reg[2] 32767
+[5531] PUSH | reg[3]
+[5533]  SET | reg[3] 29241
+[5536] CALL | 1841
+[5538]  POP | reg[3]
+[5540] PUSH | reg[0]
+[5542] PUSH | reg[1]
+[5544] PUSH | reg[2]
+[5546]  SET | reg[0] 29245
+[5549]  SET | reg[1] 1531
+[5552]  ADD | reg[2] 7480 18860
+[5556] CALL | 1458
+[5558]  POP | reg[2]
+[5560]  POP | reg[1]
+[5562]  POP | reg[0]
+[5564] WMEM | 2732 2498
+[5567] WMEM | 2733 0
+[5570]  ADD | reg[1] 2708 2
+[5574] WMEM | reg[1] 32767
+[5577]  JMP | 5714
+[5579] PUSH | reg[0]
+[5581] PUSH | reg[1]
+[5583] PUSH | reg[2]
+[5585]  SET | reg[0] 29400
+[5588]  SET | reg[1] 1531
+[5591]  ADD | reg[2] 30214 603
+[5595] CALL | 1458
+[5597]  POP | reg[2]
+[5599]  POP | reg[1]
+[5601]  POP | reg[0]
+[5603]  JMP | 5714
+[5605] PUSH | reg[0]
+[5607] PUSH | reg[1]
+[5609] PUSH | reg[2]
+[5611]  SET | reg[0] 29545
+[5614]  SET | reg[1] 1531
+[5617]  ADD | reg[2] 12198 3653
+[5621] CALL | 1458
+[5623]  POP | reg[2]
+[5625]  POP | reg[1]
+[5627]  POP | reg[0]
+[5629]  SET | reg[0] 0
+[5632]  ADD | reg[2] 1 27101
+[5636] RMEM | reg[1] reg[2]
+[5639]  ADD | reg[0] reg[0] reg[1]
+[5643] MULT | reg[0] reg[0] 31660
+[5647] CALL | 2125
+[5649] RMEM | reg[1] 27101
+[5652]  ADD | reg[1] reg[1] 27101
+[5656]  ADD | reg[2] reg[2] 1
+[5660]   GT | reg[1] reg[2] reg[1]
+[5664]   JF | reg[1] 5636
+[5667]  SET | reg[1] 25866
+[5670]  SET | reg[2] 32767
+[5673] PUSH | reg[3]
+[5675]  SET | reg[3] 29663
+[5678] CALL | 1841
+[5680]  POP | reg[3]
+[5682] PUSH | reg[0]
+[5684] PUSH | reg[1]
+[5686] PUSH | reg[2]
+[5688]  SET | reg[0] 29667
+[5691]  SET | reg[1] 1531
+[5694]  ADD | reg[2] 897 25081
+[5698] CALL | 1458
+[5700]  POP | reg[2]
+[5702]  POP | reg[1]
+[5704]  POP | reg[0]
+[5706] WMEM | 2732 2488
+[5709] WMEM | 2733 0
+[5712]  JMP | 5714
+[5714]  POP | reg[2]
+[5716]  POP | reg[1]
+[5718]  POP | reg[0]
+[5720]  RET
+[5721] PUSH | reg[0]
+[5723] PUSH | reg[1]
+[5725] PUSH | reg[2]
+[5727] PUSH | reg[3]
+[5729] PUSH | reg[0]
+[5731] PUSH | reg[1]
+[5733] PUSH | reg[2]
+[5735]  SET | reg[0] 29757
+[5738]  SET | reg[1] 1531
+[5741]  ADD | reg[2] 10634 8666
+[5745] CALL | 1458
+[5747]  POP | reg[2]
+[5749]  POP | reg[1]
+[5751]  POP | reg[0]
+[5753] RMEM | reg[0] 3955
+[5756] RMEM | reg[1] 3956
+[5759] CALL | 2125
+[5761] RMEM | reg[1] 3957
+[5764] CALL | 2125
+[5766]  SET | reg[1] 25919
+[5769]  SET | reg[2] 4
+[5772] PUSH | reg[3]
+[5774]  SET | reg[3] 29942
+[5777] CALL | 1841
+[5779]  POP | reg[3]
+[5781] PUSH | reg[0]
+[5783] PUSH | reg[1]
+[5785] PUSH | reg[2]
+[5787]  SET | reg[0] 29946
+[5790]  SET | reg[1] 1531
+[5793]  ADD | reg[2] 5043 14919
+[5797] CALL | 1458
+[5799]  POP | reg[2]
+[5801]  POP | reg[1]
+[5803]  POP | reg[0]
+[5805]  POP | reg[3]
+[5807]  POP | reg[2]
+[5809]  POP | reg[1]
+[5811]  POP | reg[0]
+[5813]  RET
+[5814]  OUT | -
+[5816]  OUT |  
+[5818] CALL | 1518
+[5820]  OUT | 
+
+[5822]  RET
+[5823] PUSH | reg[1]
+[5825] PUSH | reg[2]
+[5827]  SET | reg[0] 27381
+[5830]  SET | reg[1] 5846
+[5833]  SET | reg[2] 0
+[5836] CALL | 1458
+[5838]  SET | reg[0] reg[2]
+[5841]  POP | reg[2]
+[5843]  POP | reg[1]
+[5845]  RET
+[5846] PUSH | reg[3]
+[5848] PUSH | reg[4]
+[5850] RMEM | reg[3] 2732
+[5853]  ADD | reg[4] reg[0] 2
+[5857] RMEM | reg[4] reg[4]
+[5860]   EQ | reg[3] reg[3] reg[4]
+[5864]   JF | reg[3] 5871
+[5867]  ADD | reg[2] reg[2] 1
+[5871]  POP | reg[4]
+[5873]  POP | reg[3]
+[5875]  RET
+[5876] PUSH | reg[0]
+[5878] PUSH | reg[1]
+[5880]  SET | reg[0] 27381
+[5883]  SET | reg[1] 5893
+[5886] CALL | 1458
+[5888]  POP | reg[1]
+[5890]  POP | reg[0]
+[5892]  RET
+[5893] PUSH | reg[3]
+[5895]  ADD | reg[3] reg[0] 2
+[5899] RMEM | reg[3] reg[3]
+[5902]   EQ | reg[3] reg[2] reg[3]
+[5906]   JF | reg[3] 5918
+[5909]  ADD | reg[0] reg[0] 0
+[5913] RMEM | reg[0] reg[0]
+[5916] CALL | 5814
+[5918]  POP | reg[3]
+[5920]  RET
+[5921] PUSH | reg[1]
+[5923] PUSH | reg[2]
+[5925]  SET | reg[2] reg[0]
+[5928]  SET | reg[0] 27381
+[5931]  SET | reg[1] 5964
+[5934] CALL | 1543
+[5936]   EQ | reg[1] reg[0] 32767
+[5940]   JT | reg[1] 5956
+[5943]  ADD | reg[1] 27381 reg[0]
+[5947]  ADD | reg[1] reg[1] 1
+[5951] RMEM | reg[0] reg[1]
+[5954]  JMP | 5959
+[5956]  SET | reg[0] 0
+[5959]  POP | reg[2]
+[5961]  POP | reg[1]
+[5963]  RET
+[5964] PUSH | reg[1]
+[5966]  SET | reg[1] reg[2]
+[5969]  ADD | reg[0] reg[0] 0
+[5973] RMEM | reg[0] reg[0]
+[5976] CALL | 1667
+[5978]  POP | reg[1]
+[5980]   JF | reg[0] 5989
+[5983]  SET | reg[2] reg[1]
+[5986]  SET | reg[1] 32767
+[5989]  RET
+[5990] PUSH | reg[1]
+[5992] PUSH | reg[2]
+[5994]  ADD | reg[0] reg[0] 2
+[5998] RMEM | reg[0] reg[0]
+[6001]   JF | reg[0] 6019
+[6004] RMEM | reg[1] 2732
+[6007]   EQ | reg[1] reg[0] reg[1]
+[6011]   JT | reg[1] 6019
+[6014]  SET | reg[0] 0
+[6017]  JMP | 6022
+[6019]  SET | reg[0] 1
+[6022]  POP | reg[2]
+[6024]  POP | reg[1]
+[6026]  RET
+[6027]   JT | reg[0] 6035
+[6030]  ADD | reg[0] reg[1] 1
+[6034]  RET
+[6035]   JT | reg[1] 6048
+[6038]  ADD | reg[0] reg[0] 32767
+[6042]  SET | reg[1] reg[7]
+[6045] CALL | 6027
+[6047]  RET
+[6048] PUSH | reg[0]
+[6050]  ADD | reg[1] reg[1] 32767
+[6054] CALL | 6027
+[6056]  SET | reg[1] reg[0]
+[6059]  POP | reg[0]
+[6061]  ADD | reg[0] reg[0] 32767
+[6065] CALL | 6027
+[6067]  RET
+[8175]   IN | 16435
+[10453] PUSH | 21392
+[10573] RMEM | 21237 10070
+[11893]   OR | 24401 14955 6512
+[20166] CALL | 8083
+[20298] WMEM | 7897 16300
+[20794] CALL | 8889
+[21607]   GT | 11120 21024 31428
+[22195] RMEM | 12193 23244
+[26837] PUSH | 21442
+[28005] RMEM | 11634 30395
+[28066]  SET | 28447 19408
+[28210] WMEM | 24554 15168
